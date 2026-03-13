@@ -1,0 +1,5 @@
+spring:
+  jackson:
+    mapper:
+      # View 설정이 없는 필드도 기본적으로 포함함
+      default-view-inclusion: true
